@@ -1,11 +1,11 @@
 # Data types
 
-- Primitive type
+- Primitive type -> immutable
   - string
   - number
   - boolean
   - undefined(special)
   - null(special)
-- Object type
+- Object type -> mutable
   - object
-  - array
+  - array -> special kind of object
