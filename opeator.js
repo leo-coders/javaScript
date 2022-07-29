@@ -59,3 +59,11 @@ let x = fullName + shirtPrice;
 
 let stringPantPrice = pantPrice.toString();
 // console.log(stringPantPrice);
+
+/*
+ * CONDITIONAL OPERATOR
+ */
+
+// <, >, <=, >=, == ,===
+
+// console.log("5" == 5);
